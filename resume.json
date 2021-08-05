@@ -42,13 +42,10 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"skills": [
-		{
+	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS","Javascript","Figma","C"],
-	    },
-
-     ],
+		"keywords": ["HTML", "CSS", "Javascript", "Figma", "C"]
+	}],
 	
      "interests": [{
 		"name": "Sports",
