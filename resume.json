@@ -45,12 +45,8 @@
 	"skills": [
 		{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "C"]
+		"keywords": ["HTML", "CSS","Javascript","Figma","C"]
 	    },
-		{
-			"level": "Intermediate",
-			"keywords": ["Javascript", "PHP", "Figma"]
-		}
 
      ],
 	
